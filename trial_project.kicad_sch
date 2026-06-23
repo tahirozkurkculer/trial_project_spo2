@@ -2231,7 +2231,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 74.93) (xy 190.5 77.47)
+			(xy 193.04 74.93) (xy 193.04 77.47)
 		)
 		(stroke
 			(width 0)
@@ -2261,7 +2261,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 100.33) (xy 190.5 105.41)
+			(xy 193.04 100.33) (xy 193.04 105.41)
 		)
 		(stroke
 			(width 0)
@@ -2291,7 +2291,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 91.44) (xy 182.88 91.44)
+			(xy 171.45 91.44) (xy 185.42 91.44)
 		)
 		(stroke
 			(width 0)
@@ -2331,7 +2331,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 86.36) (xy 182.88 86.36)
+			(xy 176.53 86.36) (xy 185.42 86.36)
 		)
 		(stroke
 			(width 0)
@@ -2789,7 +2789,7 @@
 	)
 	(symbol
 		(lib_id "trial_project_library:SSD1306")
-		(at 190.5 88.9 0)
+		(at 193.04 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2798,7 +2798,7 @@
 		(fields_autoplaced yes)
 		(uuid "3c08ee74-66b4-4830-bdb0-1423b2639a22")
 		(property "Reference" "U2"
-			(at 196.85 87.6299 0)
+			(at 199.39 87.6299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2807,7 +2807,7 @@
 			)
 		)
 		(property "Value" "SSD1306"
-			(at 196.85 90.1699 0)
+			(at 199.39 90.1699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2816,7 +2816,7 @@
 			)
 		)
 		(property "Footprint" "trial_project_fp_library:SSD1306"
-			(at 190.5 88.9 0)
+			(at 193.04 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2825,7 +2825,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 190.5 88.9 0)
+			(at 193.04 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2834,7 +2834,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 190.5 88.9 0)
+			(at 193.04 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3788,7 +3788,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 190.5 74.93 0)
+		(at 193.04 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3797,7 +3797,7 @@
 		(fields_autoplaced yes)
 		(uuid "c233c9a1-a880-4153-ab43-9cdf376cdbe1")
 		(property "Reference" "#PWR013"
-			(at 190.5 78.74 0)
+			(at 193.04 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3806,7 +3806,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 190.5 69.85 0)
+			(at 193.04 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3814,7 +3814,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 190.5 74.93 0)
+			(at 193.04 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3823,7 +3823,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 190.5 74.93 0)
+			(at 193.04 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3832,7 +3832,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 190.5 74.93 0)
+			(at 193.04 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4266,7 +4266,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 190.5 105.41 0)
+		(at 193.04 105.41 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4275,7 +4275,7 @@
 		(fields_autoplaced yes)
 		(uuid "f8c5f1e8-6ae3-4d52-b4e2-9e5815c7eda5")
 		(property "Reference" "#PWR011"
-			(at 190.5 111.76 0)
+			(at 193.04 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4284,7 +4284,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 190.5 110.49 0)
+			(at 193.04 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4292,7 +4292,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 190.5 105.41 0)
+			(at 193.04 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4301,7 +4301,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 190.5 105.41 0)
+			(at 193.04 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4310,7 +4310,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 190.5 105.41 0)
+			(at 193.04 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
